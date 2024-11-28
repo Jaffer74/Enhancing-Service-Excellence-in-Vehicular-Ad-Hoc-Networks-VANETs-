@@ -86,7 +86,7 @@ Graphs and detailed results are available in the [Full Report](#📑-view-full-r
 ## 📑 **View Full Report**  
 
 For a detailed explanation of the research, methodology, and results, view the complete report:  
-[🔗 Click here to open the report](./Enhancing_Service_Excellence_in_VANETs_REPORT.pdf)  
+[🔗 Click here to open the report](./https://github.com/Jaffer74/Enhancing-Service-Excellence-in-Vehicular-Ad-Hoc-Networks-VANETs-/blob/main/Enhancing%20Service%20Excellence%20in%20Vehicular%20Ad%20Hoc%20Networks%20(VANETs)_REPORT.pdf)  
 
 ---
 
