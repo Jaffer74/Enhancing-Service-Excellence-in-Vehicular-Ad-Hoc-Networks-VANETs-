@@ -55,8 +55,6 @@ Our research methodology includes:
   - Increased throughput.  
 - The integration of **node identity** and **real-time location data** improves routing efficiency in dynamic traffic conditions.  
 
-Graphs and detailed results are available in the [Full Report](#📑-view-full-report).  
-
 ---
 
 ## 💻 **Technologies Used**  
