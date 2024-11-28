@@ -65,6 +65,30 @@ Our research methodology includes:
 
 ---
 
+## 📂 Project File Structure  
+
+The project is organized as follows:  
+
+```plaintext
+project-directory/
+├── vanet.tcl                 # TCL simulation script
+├── vanet.tr                  # Trace file (output from NS2)
+├── vanet.nam                 # NAM file for animation
+├── protocols/                # Custom protocol implementations
+│   ├── aodv.cc               # Modified AODV protocol (if applicable)
+│   ├── enaodv.cc             # ENAODV protocol file
+├── analysis/                 # Scripts for result analysis
+│   ├── analyze.py            # Script for trace analysis
+│   ├── graphs/               # Result visualizations
+│       ├── throughput.png    # Throughput graph
+│       ├── delay.png         # End-to-end delay graph
+├── results/                  # Processed results and logs
+│   ├── metrics.txt           # Extracted metrics (e.g., PDR, delay)
+│   ├── logs/                 # Logs from simulations
+├── README.md                 # Project documentation
+├── Enhancing_Service_Excellence_in_VANETs_REPORT.pdf # Final report
+```
+
 ## 🚀 **How to Use**  
 
 1. Clone the repository:  
