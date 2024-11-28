@@ -13,8 +13,6 @@ Welcome to the repository for our research project **"Enhancing Service Excellen
 5. [Technologies Used](#technologies-used)  
 6. [How to Use](#how-to-use)  
 7. [View Full Report](#📑-view-full-report)  
-8. [Contributors](#contributors)  
-9. [License](#license)  
 
 ---
 
