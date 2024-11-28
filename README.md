@@ -10,9 +10,10 @@ Welcome to the repository for our research project **"Enhancing Service Excellen
 2. [Features](#features)  
 3. [Methodology](#methodology)  
 4. [Key Findings](#key-findings)  
-5. [Technologies Used](#technologies-used)  
-6. [How to Use](#how-to-use)  
-7. [View Full Report](#📑-view-full-report)  
+5. [Technologies Used](#technologies-used)
+6. [Project File Structure](#Project-File-Structure)
+7. [How to Use](#how-to-use)  
+8. [View Full Report](#📑-view-full-report)  
 
 ---
 
